@@ -1,2 +1,2 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Natalia's github stats](https://github-readme-stats.vercel.app/api?username=nataliastewart&show_icons=true&theme=radical)
 
